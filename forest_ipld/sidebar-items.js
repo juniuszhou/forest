@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Ipld","Represents IPLD data structure used when serializing and deserializing data"]],"struct":[["IpldVisitor","Struct used in deserialization to decode cbor encoded data (including Cid tagged) values to Ipld data type"]]});

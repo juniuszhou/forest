@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ActorStateHandle",""],["CallerPattern",""],["ComputeFunctionID",""],["IPLDObject",""],["Randomness",""]],"trait":[["ActorCode","Interface for invoking methods on an Actor"],["Runtime","Runtime is the VM's internal runtime object. this is everything that is accessible to actors, beyond parameters."]]});

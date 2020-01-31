@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["MessagePoolConfig","Holds all configuration options related to nodes message pool (mpool)."],["Pool","Pool keeps an unordered, de-duplicated set of Messages and supports removal by CID."]]});

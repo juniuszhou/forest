@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["forest_libp2p"] = [{"text":"impl <a class=\"trait\" href=\"https://docs.rs/futures/0.1/futures/stream/trait.Stream.html\" title=\"trait futures::stream::Stream\">Stream</a> for <a class=\"struct\" href=\"forest_libp2p/service/struct.Libp2pService.html\" title=\"struct forest_libp2p::service::Libp2pService\">Libp2pService</a>","synthetic":false,"types":["forest_libp2p::service::Libp2pService"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["MessageBuilder","Builder for `UnsignedMessage`."],["MessageReceipt","Result of a state transition from a message"],["SignedMessage","Represents a wrapped message with signature bytes"],["UnsignedMessage","Default Unsigned VM message type which includes all data needed for a state transition"]],"trait":[["Message",""]]});

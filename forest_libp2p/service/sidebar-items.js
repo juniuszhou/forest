@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["NetworkEvent","Events emitted by this Service to be listened by the NetworkService."]],"fn":[["build_transport",""]],"struct":[["Libp2pService","The Libp2pService listens to events from the Libp2p swarm."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["NetworkMessage","Ingress events to the NetworkService"]],"struct":[["NetworkService","Receives commands through a channel which communicates with Libp2p. It also listens to the Libp2p service for messages."]]});

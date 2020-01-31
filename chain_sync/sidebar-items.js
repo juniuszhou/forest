@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BlockMsg","A container used to decode pubsub messages into prior to validation and propagation. See https://github.com/filecoin-project/go-filecoin/blob/master/internal/pkg/block/chain_info.go for reference"]]});

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["crypto"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/cmp/trait.Ord.html\" title=\"trait core::cmp::Ord\">Ord</a> for <a class=\"struct\" href=\"crypto/struct.VRFResult.html\" title=\"struct crypto::VRFResult\">VRFResult</a>","synthetic":false,"types":["crypto::vrf::VRFResult"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

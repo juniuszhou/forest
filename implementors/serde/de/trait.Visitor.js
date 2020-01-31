@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["forest_ipld"] = [{"text":"impl&lt;'de&gt; <a class=\"trait\" href=\"https://docs.rs/serde/1.0.104/serde/de/trait.Visitor.html\" title=\"trait serde::de::Visitor\">Visitor</a>&lt;'de&gt; for <a class=\"struct\" href=\"forest_ipld/struct.IpldVisitor.html\" title=\"struct forest_ipld::IpldVisitor\">IpldVisitor</a>","synthetic":false,"types":["forest_ipld::IpldVisitor"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

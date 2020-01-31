@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ChainEpoch","An epoch represents a single valid state in the blockchain"],["ChainEpochClock","ChainEpochClock is used by the system node to assume weak clock synchrony amongst the other systems."]]});
